@@ -2,6 +2,9 @@
  utilizing cloud-based data hosted on MacLeod servers. I analyzed large-scale trip and delivery data, integrated from EFS fuel and maintenance payment systems. Using Power BI, I developed interactive dashboards highlighting key KPIs like revenue per mile, on-time deliveries, and geo-distribution of trips. I also created DAX-driven reports for advanced insights such as cost analysis, delivery performance, and trend forecasting.
 # 🚚 Transport Dashboard & Delivery Analysis | Power BI
 
+### 🏠 Home Page
+<img src="Transport domain.png" alt="Home Page" width="100%" />
+
 This project presents an interactive **Power BI dashboard** designed to analyze and visualize key metrics related to transportation and delivery performance.
 
 ## 📊 Key Features
